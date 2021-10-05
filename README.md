@@ -1,3 +1,4 @@
+![Banner](img/alvin_banner.jpeg)
 ## 👋 Hi, I’m Alvin Lam!
 - 👩🏻‍🎓 I'm a senior Computer Science student at University of Illinois at Chicago (UIC)
 - 👀 I’m interested in front end development
