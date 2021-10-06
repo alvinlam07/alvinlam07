@@ -5,7 +5,7 @@
 - 📚 I'm currently studying front end development and UI design
 ### 🔗 Links
 <a href="https://www.linkedin.com/in/alvin-lam-8357b51a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+##
 #### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
