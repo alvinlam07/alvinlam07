@@ -1,8 +1,7 @@
 ![Banner](img/alvin_banner.jpeg)
 ## 👋 Hi, I’m Alvin Lam!
-- 👩🏻‍🎓 I'm a senior Computer Science student at University of Illinois at Chicago (UIC)
-- 👀 I’m interested in front end development
-- 📚 I'm currently studying UI design, object-oriented programming, and android development
+- 👩🏻‍🎓 Senior Computer Science student at University of Illinois at Chicago (UIC)
+- 📚 Currently studying computer graphics and principles of concurrent programming
 ### 🔗 Links
 <a href="https://www.linkedin.com/in/alvin-lam-8357b51a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ##
